@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+hr {
+    border-color: yellow;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 7%; 
+}
+
+h1, h3 {
+    color: yellow;
+
+}
+
+img:hover {
+    visibility: collapse;
+}
+
+/* Class tag styling */
+.football {
+    width: 20%;
+}
+
+/* ID tag styling */
+#profilepic {
+    height: 400px; 
+    width: 300px;
+}
