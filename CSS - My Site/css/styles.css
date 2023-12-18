@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Courier Prime', monospace;
+  font-size: 120%;
+}
+
+.profile-pic {
+  height: 300px; 
+  width: 300px; 
+  border-radius: 50%; 
+}
+
+h1 {
+  width: 20%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 565.5%;
+  color: blue;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: gold;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.blue {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    /* position: absolute;
+    top: 100px;
+    left: 100px; */
+}
+
+.red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.top-container {
+  background-color: lightblue;
+}
+
+/* .container {
+  background-color: grey;
+  width: 300px;
+  height: 300px;
+  position: relative;
+} */
+
+.top-cloud {
+  position: relative;
+  padding-top: 20px;
+  left: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  display: block;
+  left: 200px;
+  top: 150px;
+}
+
+.code-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.country-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-left : 30px;
+}
+
+.bottom-container {
+  background-color: lightblue;
+  height: 100px;
+  padding: 20px;
+}
+
+.footer-link {
+    margin: 30px 10px auto 10px;
+    text-decoration: none;
+}
+
+.copyright {
+
+}
+/* 
+.yellow {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: relative;
+    left: -5px;
+}
+
+.blue {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.red {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: relative;
+    left: -10px;
+}
+
+/* div {
+    background-color: black;
+    color: yellow;
+    margin-left: 0px;
+    margin-top: 0px;
+} */ 
+
+/* .top-container {
+  background-color: lightblue;
+  border: 10px;
+  border-color: black;
+  border-style: solid;
+  color: black;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+}
+.middle-container {
+  border: 20px;
+  border-color: black;
+  border-style: solid;
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  margin-left: 260px;
+}
+
+.bottom-container {
+  border: 10px;
+  border-color: black;
+  border-style: solid;
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  margin-left: 500px;
+} */
